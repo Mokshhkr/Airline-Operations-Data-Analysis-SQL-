@@ -70,7 +70,15 @@ Rank airports based on number of departing flights.
 Grouped flights by departure airport, calculated total flights, and applied ranking to identify busiest airports.
 
 ---
+## 📊 Key Insights
 
+- Identified a subset of tickets that were not linked to boarding passes, highlighting potential gaps in the check-in or boarding process  
+- Observed that booking data required standardization for consistent reporting and analysis  
+- Recognized patterns in product/store performance using ranking techniques, which can be applied to identify top-performing segments  
+- Quarterly analysis helped compare performance trends across different time periods and identify high-performing intervals  
+- Airport ranking revealed which locations handled the highest flight traffic, useful for operational and resource planning  
+
+---
 ## 📊 Key Learnings
 
 - Strong understanding of SQL joins across multiple tables  
